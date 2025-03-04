@@ -4,7 +4,7 @@ import Image from "next/image"
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-top p-8 pb-18 md:p-24">
+    <main className="flex h-[100dvh] flex-col items-center justify-top pt-18 p-6 pb-18 md:p-24">
       <div className="max-w-xl">
         <Image
           src="https://rentsimple-images-west.s3.us-west-2.amazonaws.com/assets/cesar-couto-27HiryxnHJk-unsplash.jpg"
@@ -16,8 +16,8 @@ export default function Home() {
 
         <h1 className="mb-4 text-3xl text-gray-800 dark:text-white">Hi, I&apos;m Ben.</h1>
 
-        <div className="space-y-2 text-xl font-light text-gray-800 dark:text-white">
-          <p>I love design and startups.</p>
+        <div className="space-y-2 text-lg font-light text-gray-800 dark:text-white">
+          <p>I love and startups and design.</p>
           <p>Right now, I&apos;m building AI agents for real estate.</p>
           <p>If you&apos;re working on something interesting, let&apos;s connect.</p>
         </div>
