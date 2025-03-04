@@ -14,12 +14,12 @@ export default function Home() {
           className="mb-10 h-16 w-16 rounded-full"
         />
 
-        <h1 className="mb-4 text-3xl text-gray-800 dark:text-white">Hi, I'm Ben.</h1>
+        <h1 className="mb-4 text-3xl text-gray-800 dark:text-white">Hi, I&apos;m Ben.</h1>
 
         <div className="space-y-2 text-xl font-light text-gray-800 dark:text-white">
           <p>I love design and startups.</p>
-          <p>Right now, I'm building AI agents for real estate.</p>
-          <p>If you're working on something interesting, let's connect.</p>
+          <p>Right now, I&apos;m building AI agents for real estate.</p>
+          <p>If you&apos;re working on something interesting, let&apos;s connect.</p>
         </div>
 
         <Link
