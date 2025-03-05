@@ -17,7 +17,7 @@ export default function Home() {
         <h1 className="mb-4 text-3xl text-gray-800 dark:text-white">Hi, I&apos;m Ben.</h1>
 
         <div className="space-y-2 text-lg font-light text-gray-800 dark:text-white">
-          <p>I love and startups and design.</p>
+          <p>I love startups and design.</p>
           <p>Right now, I&apos;m building AI agents for real estate.</p>
           <p>If you&apos;re working on something interesting, let&apos;s connect.</p>
         </div>
